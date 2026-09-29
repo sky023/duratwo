@@ -6,14 +6,12 @@ type: minimal
 
 ---
 
-
 By using any of the services provided by Durare you agree to our terms of use.
 These conditions can be changed at any time without prior notice.
 However, we highly evaluate transparency and will do our best to make sure users are notified as soon as possible about any major changes via our forum on Codema.
 {.lead}
 
-
-1. **Resource Limitations** - Resources are scarce. 
+1. **Resource Limitations** - Resources are scarce.
 Use Durare service with responsibility, please try not to share large chunks of files or spam.
 We have set a total size limit of 1GB/ day/ user to make sure the services are available for everyone to use.
 
@@ -78,7 +76,6 @@ It won’t be stored on our server.
 - Message archive (MAM) - 180 Days (can be disabled on your client)
 
 If you have any doubts on our terms of service, please contact us on <hello@durare.org>
-
 
 Note
 {.display-6}
