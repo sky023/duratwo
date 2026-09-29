@@ -4,26 +4,32 @@
   weight = 10
 
 [[main]]
-  name = "Tags"
-  pageRef = "/tags"
+  name = "Donate"
+  pageRef = "/#donate"
   weight = 20
+# button = true
+
+[[main]]
+  name = "Terms of Service"
+  pageRef = "/tos"
+  weight = 30
 
 [[social]]
-  name = "LinkedIn"
-  pre = "fab linkedin"
-  url = "https://linkedin.com/"
+  name = "Matrix"
+  pre = "fab matrix"
+  url = "https://matrix.to/#/#diasp.in:poddery.com/"
   weight = 10
 
 [[social]]
-  name = "GitHub"
-  pre = "fab fa-github"
-  url = "https://github.com/"
+  name = "XMPP"
+  pre = "fab fa-xmpp"
+  url = "https://xmpp.link/#diasp.in@conference.diasp.in?join"
   weight = 20
 
 [[social]]
-  name = "Medium"
-  pre = "fab medium"
-  url = "https://medium.com/"
+  name = ""
+  pre = "fab fa-gitlab"
+  url = "https://gitlab.com/piratemovin/diasp.in"
   weight = 30
 
 # toml-docs-start sample-navigation

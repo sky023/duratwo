@@ -5,7 +5,7 @@
     [en.params.head]
         tagline = "A Hugo Theme"
     [en.params.social]
-        title = "Follow me"
-        caption = "I work on everything coding and tweet developer memes"
+        title = "Find us"
+        caption = "Hop in and say Hi! or mail us at hello_at_durare_dot_org"
     [en.params.footer]
         # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."

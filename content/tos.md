@@ -66,7 +66,9 @@ Please check on the xmpp client that you are using to see how to do this.
 What is stored?
 {.display-4}
 
-- Email address - We use Formbricks to collect and verify account requests on our website. If you have applied for account request through filling the account request form, then only in that case, your email address will be collected and temporarily stored in our formbricks account. It won’t be stored on our server.
+- Email address - We use Formbricks to collect and verify account requests on our website.
+If you have applied for account request through filling the account request form, then only in that case, your email address will be collected and temporarily stored in our formbricks account.
+It won’t be stored on our server.
 - Date of registration and last login (to detect inactive users)
 - Username and password hash
 - Profile information and avatar
@@ -92,4 +94,3 @@ And, any disruptions to the server, like downtime, will affect all the three XMP
 
 Since this is a volunteer-run public service, it would be really helpful if you could help us maintain it.
 You can do so by either [sponsoring](/#donate) this expense or a part of it, or you can also volunteer for various tasks listed at - [Durare.org issues](https://gitlab.com/piratemovin/diasp.in/-/issues).
-

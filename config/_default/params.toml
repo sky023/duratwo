@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "Durare is a free XMPP service for public."
     enableLanguageSelectionStorage = false
     canonifyAssetsURLs = false
     endorse = true
@@ -41,14 +41,14 @@
     sidebar = true
     size = "md"
     [navigation.search]
-        enabled = true
+        enabled = false
         modal = false
 
 [messages]
     placement = "bottom-right"
 
 [sharing]
-    enabled = true
+    enabled = false
     sort = "weight"
     reverse = false
     webshare = true
@@ -107,7 +107,7 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
+    name = "Durare"
     # locale = "en-US" # defaults to the locale of the current site language
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
